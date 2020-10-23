@@ -130,7 +130,7 @@ $ npm test
 Note that due to the "creativity" of the English language it's possible for the syllable counting library to be off. If your pull request fails a test and you think that's in error, please follow up with a comment.
 
 ### Submit a Pull Request
-
+Hello there!
 We're happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
 
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
